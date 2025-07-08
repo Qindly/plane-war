@@ -1,0 +1,9 @@
+background=image/plane_war/background/1.png
+play=image/plane_war/play/10.png
+play_bullet=image/plane_war/fire/13.png
+enemy_bullet=image/plane_war/fire/1.png
+boss_bullet=image/plane_war/fire/2.png
+enemy=image/plane_war/enemy/1.png
+boss=image/plane_war/boss/1.png
+item_powerup=image/plane_war/prop/1.png
+item_health=image/plane_war/prop/2.png
